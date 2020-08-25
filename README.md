@@ -1,2 +1,1 @@
-# AndroidDemoProject
-Fetch data from API using retrofit in recyclerview.
+#Fetch_data_from_API_using_retrofit_in_recyclerview.
